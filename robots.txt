@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://luzawohsho.xudukj.com/sitemap.xml
